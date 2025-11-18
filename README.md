@@ -20,10 +20,13 @@ I'm graduating from AI Master's program at Carnegie Mellon University this Fall 
 - Implemented parallel algorithms for VLSI wire routing via **OpenMP** and **MPI**, utilizing quadtree data structure and Barnes-Hut algorithm to enhance spatial locality and workload balance
 - Implemented a high-performance **dynamic memory allocator** levaraging segregation free list, mini-block, and footer elimnation, achieving high throughput and high memory utilization
 
+### Skill Set 🧩
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,pyspark,javascript,cpp,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,cpp,postgresql)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,git,gcp,aws,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,opencv,react,nodejs)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes,kafka,gcp,aws)](https://skillicons.dev)
 
 
 <!--
