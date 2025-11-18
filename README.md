@@ -21,7 +21,9 @@ I'm graduating from AI Master's program at Carnegie Mellon University this Fall 
 - Implemented a high-performance **dynamic memory allocator** levaraging segregation free list, mini-block, and footer elimnation, achieving high throughput and high memory utilization
 
 
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,pyspark,javascript,cpp,postgresql)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,git,gcp,aws,latex)](https://skillicons.dev)
 
 
 <!--
