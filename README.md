@@ -1,6 +1,6 @@
 ## Hi I'm Rong 👋
 
-I'm graduating from AI Master's program at Carnegie Mellon University this Fall 2025. My background focuses on applied AI and software system development. I've worked on **LLM inference**, **generative models**, building and deploying **scalable ML infrastructures**, **GPU acceleration**, and **storage and distributed systems**. In this past summer, I was interned as an AI application engineer, architecting and deploying a semiconductor data analytics and ML pipeline to reduce latency and improve model performance. I'm actively seeking for full-time position in Software Engineer and AI Engineer. 
+I'm graduating from AI Master's program at Carnegie Mellon University this Fall 2025. My background focuses on applied AI and software system development. I've worked on **LLM inference**, **generative models**, building and deploying **scalable ML infrastructures**, **GPU acceleration**, and **storage and distributed systems**. In this past summer, I was interned as an AI application engineer, architecting and deploying a semiconductor data analytics and ML pipeline to reduce latency and improve model performance. **I'm actively seeking for full-time position in Software Engineer and AI Engineer.** 
 
 ### Recent Highlights 🌟
 
