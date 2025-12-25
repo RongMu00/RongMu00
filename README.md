@@ -5,7 +5,7 @@
   - Aspiring software engineer / AI Engineer
   - Always strive to become better me
 
-🔭 I've recently worked on: Mirage, distributed object storage, cloud file systems
+🔭 I've recently worked on Mirage, distributed object storage, cloud file systems
 
 🌱 I’m currently learning LLM inference / RL systems
 
