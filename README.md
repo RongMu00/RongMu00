@@ -1,8 +1,16 @@
 ## Hi 👋
 
-🔭 I'm recently worked on: Mirage, distributed object systems
+👩🏻‍💻 About me
+  - Recent graduate from Carnegie Mellon University with M.S. Artificial Intelligence
+  - Aspiring software engineer / AI Engineer
+  - Always strive to become better me
+
+🔭 I've recently worked on: Mirage, distributed object systems, storage systems
+
 🌱 I’m currently learning LLM inference / RL systems
+
 👯 I’m looking to collaborate on sglang, slime
+
 
 <!-- 
 💬 Ask me about ...
