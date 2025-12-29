@@ -14,6 +14,7 @@
 
 👯 I’m looking to collaborate on sglang, slime
 
+**I'm currently actively seeking for 26 NG Software Engineer / ML Engineer positions. Please feel free to reach out if there is a potential good fit.**
 
 <!-- 
 💬 Ask me about ...
