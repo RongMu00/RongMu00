@@ -6,7 +6,7 @@
   - Always strive to become better me
 
 🔭 I've recently worked on 
-  - Mirage Persistent Kernel
+  - RAG & Agentic Systems
   - Distributed object storage
   - Cloud file systems
 
