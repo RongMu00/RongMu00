@@ -5,14 +5,12 @@
   - Aspiring software engineer / AI Engineer
   - Always strive to become better me
 
-🔭 I've recently worked on 
+🔭 I've recently worked on projects in
   - RAG & Agentic Systems
-  - Distributed object storage
+  - ML Systems
   - Cloud file systems
 
 🌱 I’m currently learning LLM inference / RL systems
-
-👯 I’m looking to collaborate on sglang, slime
 
 **I'm currently actively seeking for 26 NG Software Engineer / ML Engineer positions. Please feel free to reach out if there is a potential good fit.**
 
